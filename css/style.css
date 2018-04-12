@@ -1,0 +1,24 @@
+.uk-section1 {
+  box-sizing: border-box;
+  /* 1 */
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+.uk-button-default1 {
+  /*background-color: transparent;*/
+  color: #fff;
+  border: 1px solid #e5e5e5;
+  margin: 20px 20px;
+  margin-top: 30px;
+  background-color:#FF4500 ;
+  border-radius: 10px;
+}
+.uk-button-defaultt {
+  background-color: #FFF;
+  color: #FF4500;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+}
+.uk-overlay-default1 {
+  background: #FF4500;
+}
